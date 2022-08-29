@@ -16,7 +16,7 @@ src="https://img.shields.io/github/followers/certurix?logo=github&style=for-the-
   <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199031932477/"> 
-  <img align="left" alt="Steam" width="22px" src="https://github.com/certurix/certurix/blob/main/icons/steam-icon-14883.png" />
+  <img align="left" alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
   <img align="left" alt="YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
