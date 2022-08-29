@@ -3,13 +3,13 @@
 ![Badge](https://visitor-counter-badge.vercel.app/api/certurix/certurix) <a href="https://www.github.com/certurix" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/certurix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
-[![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=certurix&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.com/users/shibin*23#9991)
+[![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=certurix&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.gg/kEr7Mpvp5C)
 [![Twitter Follow](https://img.shields.io/twitter/follow/certurix?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fcerturix_fr&screen_name=certurix_fr)
 [![YouTube Follow](https://img.shields.io/youtube/channel/views/UCeZTQKx_dg7UjSe3PlNxmNw?logo=YouTube&style=flat)](https://www.youtube.com/c/ShibinThomas)
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
-<a href="https://discordapp.com/channels/@me/itsme_shibintmz#0009/">
+<a href="https://discord.gg/kEr7Mpvp5C">
   <img align="left" alt="My Discord (French)" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/certurix">
