@@ -36,7 +36,7 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 - 💼 &nbsp; Wanna recruit me in your project? Ask me on my [email](mailto:certurix@outlook.fr) and I'll answer :) 
 - 💬 &nbsp; do you need help or any advice? Ask me, and I'll try to asnwer you!
 
-# 🛠 **&nbsp;languages and tools:** 
+# 🛠 **&nbsp;Languages & Tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
 
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" height="30" alt="CSS3" /></a>
