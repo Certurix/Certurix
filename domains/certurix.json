@@ -1,0 +1,12 @@
+{
+    "description": "Personnal and professionnal use domain. Showcases, skills, interests and more!",
+    "repo": "https://github.com/certurix/certurix.github.io",
+    "owner": {
+        "username": "certurix",
+        "email": "certurix@outlook.fr",
+        "twitter": "certurix_fr"
+    },
+    "record": {
+        "CNAME": "certurix.github.io/certurix"
+    }
+} 
