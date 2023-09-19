@@ -26,7 +26,7 @@
 
 Hello, I'm [Certurix](https://github.com/certurix), a young passionate developer. I make projects on games like Minecraft, Garry's Mod and others! I'm also a gamer, playing a lot and trying to create new ideas and improvments for the communities I love! 
 
-I'm 18 years old, living in France🇫 🇫🇷🥖 and currently in high school i'm preparing my french high school degree (Fact: In France, its called "baccalauréat"!). After that, I'll probably go on a BTEC Higher National Diploma (or 12th grade if Google is not wrong) to become a Web Developer!
+I'm 19 years old, living in France🇫 🇫🇷🥖 and currently busy with graduate study.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
@@ -51,11 +51,12 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 <p align='center'>
   💻 &nbsp;My workspace<br/><br/>
   <!-- <img alt="os" src="https://img.shields.io/badge/Apple-Acer_Nitro_5-999999?style=flat&logo=apple&logoColor=white" /> -->
-  <img alt="os" src="https://img.shields.io/badge/WINDOWS-10-blue?style=for-the-badge&logo=windows" />
+  <img alt="os" src="https://img.shields.io/badge/WINDOWS-11-blue?style=for-the-badge&logo=windows" />
   <img alt="soc" src="https://img.shields.io/badge/AMD%20Ryzen-5600G-blue?style=for-the-badge&logo=amd" />
   <img alt="ram" src="https://img.shields.io/badge/RAM-20GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
-  <img alt="ssd" src="https://img.shields.io/badge/500%20GB%20SSD-grey?style=for-the-badge" />
+  <img alt="graphics" src="https://img.shields.io/badge/NVIDIA-GTX1660_SUPER-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img alt="ssd" src="https://img.shields.io/badge/500%20GB%20SSD%20NVME-grey?style=for-the-badge" />
+  <img alt="ssd" src="https://img.shields.io/badge/1%20TB%20SSD-grey?style=for-the-badge" />
   <img alt="hdd" src="https://img.shields.io/badge/2%20TB%20HDD-grey?style=for-the-badge" />
 </p>
 
