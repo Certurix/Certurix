@@ -1,7 +1,4 @@
-# Hey, I'm Certurix <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=25> 
-
-![Badge](https://visitor-counter-badge.vercel.app/api/certurix/certurix) <a href="https://www.github.com/certurix" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/certurix?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+# Hey, I'm Certurix <img src="https://cdn.discordapp.com/emojis/658742777248481291.gif" width=25> 
 
 [![Discord](https://img.shields.io/static/v1?label=&labelColor=6E85D3&message=certurix&color=555555&style=flat&logo=discord&logoColor=white)](https://discord.gg/kEr7Mpvp5C)
 [![Twitter Follow](https://img.shields.io/twitter/follow/certurix?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Ftwitter.com%2Fcerturix_fr&screen_name=certurix_fr)
@@ -10,16 +7,16 @@ src="https://img.shields.io/github/followers/certurix?logo=github&style=for-the-
 🔗 &nbsp;**Connect with me**
 <p align="left">
 <a href="https://discord.gg/kEr7Mpvp5C">
-  <img align="left" alt="My Discord (French)" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="My Discord (French)" width="22px" src="https://seeklogo.com/images/D/discord-color-logo-E5E6DFEF80-seeklogo.com.png" />
 </a>
 <a href="https://twitter.com/certurix">
-  <img align="left" alt="My Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="My Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" />
 </a>
 <a href="https://steamcommunity.com/profiles/76561199031932477/"> 
   <img align="left" alt="Steam" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCTm_fmEE-cRBjyqM_noDEZA">
-  <img align="left" alt="YouTube" width="22px" src="https://github.com/peterthehan/peterthehan/blob/main/assets/youtube.svg" />
+  <img align="left" alt="YouTube" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" />
 </a>
 
 <br />
@@ -78,13 +75,6 @@ I'm also an open-source enthusiast. I learned a lot from the open-source communi
 if you like what i do, maybe consider buying me a coffee 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/certurix"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-  
-## Contribution Graph
-  <br/>
-   <a href="https://github.com/certurix"><img alt="Certurix's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=certurix&custom_title=Certurix's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-<br/>
 
 #### To reach me: just send an email, or a message on discord , all links are above! 
 
