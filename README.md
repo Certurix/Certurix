@@ -31,7 +31,7 @@ I'm 19 years old, living in France🇫 🇫🇷🥖 and currently busy with grad
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
 - 💼 &nbsp; Wanna recruit me in your project? Ask me on my [email](mailto:certurix@outlook.fr) and I'll answer :) 
-- 💬 &nbsp; do you need help or any advice? Ask me, and I'll try to asnwer you!
+- 💬 &nbsp; Do you need help or any advice? Ask me, and I'll try to answer you!
 
 # 🛠 **&nbsp;Languages & Tools:** 
 <i>Tools, languages, and other things that I like to work with.</i> 
