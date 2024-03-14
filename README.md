@@ -26,7 +26,7 @@
 
 Hello, I'm [Certurix](https://github.com/certurix), a young passionate developer. I make projects on games like Minecraft, Garry's Mod and others! I'm also a gamer, playing a lot and trying to create new ideas and improvments for the communities I love! 
 
-I'm 19 years old, living in France🇫 🇫🇷🥖 and currently busy with graduate study.
+I'm 20 years old, living in France🇫 🇫🇷🥖 and currently busy with graduate study.
 
 I'm also an open-source enthusiast. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
               
