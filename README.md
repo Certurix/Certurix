@@ -24,6 +24,8 @@
 
 &nbsp;
 
+## I'm not active on Github, I will publish soon my portfolio (whenever I got enough time). Revisit my profile in a while (August 2024)
+
 Hello, I'm [Certurix](https://github.com/certurix), a young passionate developer. I make projects on games like Minecraft, Garry's Mod and others! I'm also a gamer, playing a lot and trying to create new ideas and improvments for the communities I love! 
 
 I'm 20 years old, living in France🇫 🇫🇷🥖 and currently busy with graduate study.
