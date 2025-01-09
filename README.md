@@ -24,7 +24,7 @@
 
 &nbsp;
 
-## I'm not active on Github, I will publish soon my portfolio (whenever I got enough time). Revisit my profile in a while (August 2024)
+## I'm mostly active on Github private repositories. My portfolio is coming soon to show off my works
 
 Hello, I'm [Certurix](https://github.com/certurix), a young passionate developer. I make projects on games like Minecraft, Garry's Mod and others! I'm also a gamer, playing a lot and trying to create new ideas and improvments for the communities I love! 
 
